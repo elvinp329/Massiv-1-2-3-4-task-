@@ -1,0 +1,15 @@
+C:\Users\user\Downloads\Massivss\Massivss\bin\Debug\net6.0\Massivss.exe
+C:\Users\user\Downloads\Massivss\Massivss\bin\Debug\net6.0\Massivss.deps.json
+C:\Users\user\Downloads\Massivss\Massivss\bin\Debug\net6.0\Massivss.runtimeconfig.json
+C:\Users\user\Downloads\Massivss\Massivss\bin\Debug\net6.0\Massivss.dll
+C:\Users\user\Downloads\Massivss\Massivss\bin\Debug\net6.0\Massivss.pdb
+C:\Users\user\Downloads\Massivss\Massivss\obj\Debug\net6.0\Massivss.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Massivss\Massivss\obj\Debug\net6.0\Massivss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Massivss\Massivss\obj\Debug\net6.0\Massivss.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Massivss\Massivss\obj\Debug\net6.0\Massivss.AssemblyInfo.cs
+C:\Users\user\Downloads\Massivss\Massivss\obj\Debug\net6.0\Massivss.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Massivss\Massivss\obj\Debug\net6.0\Massivss.dll
+C:\Users\user\Downloads\Massivss\Massivss\obj\Debug\net6.0\refint\Massivss.dll
+C:\Users\user\Downloads\Massivss\Massivss\obj\Debug\net6.0\Massivss.pdb
+C:\Users\user\Downloads\Massivss\Massivss\obj\Debug\net6.0\Massivss.genruntimeconfig.cache
+C:\Users\user\Downloads\Massivss\Massivss\obj\Debug\net6.0\ref\Massivss.dll
